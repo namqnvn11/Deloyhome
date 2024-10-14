@@ -32,7 +32,7 @@ header {
 
 .nav-menu {
     width: 1374px;
-    margin-left: 200px;
+    margin-left: 217px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -82,7 +82,7 @@ header {
     font-weight: bold;
     padding-left: 50px; /* Thêm khoảng cách từ cạnh trái */
     width: 72%;
-    margin-left: 200px;
+    margin-left: 217px;
 
 }
 
